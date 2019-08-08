@@ -1,7 +1,7 @@
 $(function() {
   
   let pet_info = {
-    name:'Summer',
+    name:'Thomas',
     weight: 15,
     happiness: 88
   };
